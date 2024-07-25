@@ -2,7 +2,7 @@
 const allowedOrigins = [
     'http://localhost:5173',
     'http://localhost:4200',
-    'https://utkarsh-blogging-app.netlify.app/'
+    'https://utkarsh-blogging-app.netlify.app'
 
 ];
 
